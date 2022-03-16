@@ -1,0 +1,10 @@
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\bin\Debug\seperateButtons.exe.config
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\bin\Debug\seperateButtons.exe
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\bin\Debug\seperateButtons.pdb
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\obj\Debug\seperateButtons.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\obj\Debug\seperateButtons.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\obj\Debug\seperateButtons.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\obj\Debug\seperateButtons.exe
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\obj\Debug\seperateButtons.pdb
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\obj\Debug\seperateButtons.Form1.resources
+C:\Users\lab_services_student\source\repos\seperateButtons\seperateButtons\obj\Debug\seperateButtons.uc1.resources
